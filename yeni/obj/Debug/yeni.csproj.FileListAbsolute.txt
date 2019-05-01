@@ -1,0 +1,10 @@
+C:\Users\veysel\Desktop\yeni\yeni\bin\Debug\yeni.exe.config
+C:\Users\veysel\Desktop\yeni\yeni\bin\Debug\yeni.exe
+C:\Users\veysel\Desktop\yeni\yeni\bin\Debug\yeni.pdb
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.Form1.resources
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.Properties.Resources.resources
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.exe
+C:\Users\veysel\Desktop\yeni\yeni\obj\Debug\yeni.pdb
